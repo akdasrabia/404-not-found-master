@@ -8,6 +8,14 @@
 
 <div align="center">
   <h3>
+    <a href="https://incredible-praline-de090c.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/akdasrabia/404-not-found-master">
+      Solution
+    </a>
+    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
